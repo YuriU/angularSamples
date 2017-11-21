@@ -1,3 +1,7 @@
 Sample angular2 applications
 
 Commit test
+
+ng g component /components/user
+ng g component components/about
+ng g service services/data
